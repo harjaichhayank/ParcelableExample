@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Parcelable</string>
+    <string name="imageView">ImageView</string>
+    <string name="line1">Line1</string>
+    <string name="line2">line2</string>
+
+    <string-array name="Titles">
+        <item>tile1</item>
+        <item>tile2</item>
+        <item>tile3</item>
+    </string-array>
+
+    <string-array name="SubTitles">
+        <item>subTitle1</item>
+        <item>subTitle2</item>
+        <item>subTitle3</item>
+    </string-array>
+</resources>
